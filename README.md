@@ -6,4 +6,4 @@
 - ⚡ Fun fact: I am Lazy af
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=sumitkolhe&&show_icons=true&title_color=ffffff&icon_color=4c2882&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=sumitkolhe&&show_icons=true&title_color=ffffff&icon_color=f55555&text_color=ffffff&bg_color=121212">
