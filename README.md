@@ -1,7 +1,7 @@
 ## 👋 Hi there 
 
-- 🔭 I’m currently working on https://theindex.tech as a side project.
-- 🌱 I’m currently learning VueJS
+- 🔭 I’m currently working on https://box.wtf as a side project.
+- 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: thesumitkolhe@gmail.com
 
 
