@@ -1,4 +1,4 @@
-# 👋 Hi there, I am Sumit Kolhe.
+# 👋 Hey there, I'm Sumit. 
 
 I build stuff in my free time.
 
